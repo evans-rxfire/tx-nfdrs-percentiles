@@ -26,23 +26,40 @@
 		</nav>
     </header>
 
-    <main class="max-w-3xl mx-auto bg-white dark:bg-zinc-900 p-4 sm:p-6 rounded-md shadow-md space-y-6 text-zinc-900 dark:text-zinc-100">
+    <main class="max-w-3xl mx-auto mt-4 bg-white dark:bg-zinc-900 p-4 sm:p-6 rounded-md shadow-md space-y-6 text-zinc-900 dark:text-zinc-100">
         <div id="form-container">
             <form id="weather-form">
+                <h2 class="text-2xl text-center font-semibold">Enter location information to get NFDRS percentile.</h2>
+
+                <label class="relative flex items-center group p-2 text-lg " for="location-toggle">
+                    Turn on specific location search?
+                    <input 
+                        id="location-toggle" 
+                        type="checkbox" 
+                        class="absolute left-1/2 -translate-x-1/2 w-full h-full peer appearance-none rounded-md"
+                    >
+                    <span 
+                        class="w-14 h-8 flex items-center flex-shrink-0 ml-4 p-1 bg-zinc-300 rounded-full duration-300 ease-in-out peer-checked:bg-red-500 after:w-6 after:h-6 after:bg-white after:rounded-full after:shadow-md after:duration-300 peer-checked:after:translate-x-6 group-hover:after:translate-x-1"
+                    ></span>
+                </label>
 
                 <fieldset class="border-2 border-zinc-300 dark:border-zinc-600 p-4 rounded-md mb-6">
-                    <legend class="font-semibold text-lg text-zinc-700 dark:text-zinc-300 mb-4 px-2">Burn Information</legend>
+                    <legend class="font-semibold text-lg text-zinc-700 dark:text-zinc-300 mb-4 px-2">General Location</legend>
 
                     <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4 mb-4">
-                        <label for="property-name" class="block font-semibold text-sm mb-1 text-zinc-700 dark:text-zinc-200">Property Name</label>
+                        <label for="county-input" class="block font-semibold text-sm mb-1 text-zinc-700 dark:text-zinc-200">County</label>
                         <input 
                             type="text" 
-                            id="property-name" 
-                            name="property-name" 
+                            id="county-input" 
+                            name="county-input" 
                             class="w-[80%] px-3 py-2 border border-zinc-300 dark:border-zinc-600 rounded-md bg-white dark:bg-zinc-800 text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 dark:placeholder-zinc-500 focus:outline-none focus:ring-2 focus:ring-red-500 hover:ring-2 hover:ring-red-500"
                         >
                     </div>
-                    
+                </fieldset>
+
+                <fieldset class="border-2 border-zinc-300 dark:border-zinc-600 p-4 rounded-md mb-6">
+                    <legend class="font-semibold text-lg text-zinc-700 dark:text-zinc-300 mb-4 px-2">Specific Location</legend>
+
                     <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4 mb-4">
                         <label for="latitude-input" class="block font-semibold text-sm mb-1 text-zinc-700 dark:text-zinc-200">Latitude</label>
                         <input 
@@ -77,35 +94,17 @@
                     </p>
                 </fieldset>
 
-                <fieldset class="border-2 border-zinc-300 dark:border-zinc-600 p-4 rounded-md mb-6">
-                    <legend class="font-semibold text-lg text-zinc-700 dark:text-zinc-300 mb-4 px-2">Acceptable Weather Parameters</legend>
-
-                    <div>
-
-                    </div>
-                </fieldset>
-
-                <fieldset class="border-2 border-zinc-300 dark:border-zinc-600 p-4 rounded-md mb-6">
-                    <legend class="font-semibold text-lg text-zinc-700 dark:text-zinc-300 mb-4 px-2">Preferred Weather Parameters</legend>
-
-                    <div>
-
-                    </div>
-                </fieldset>
-
                 <div id="error-message" class="hidden text-center text-red-600 font-semibold border border-red-600 rounded-sm my-2"></div>
 
-                <div id="button-container" class="flex flex-col sm:flex-row sm:justify-between gap-4">
+                <div id="button-container" class="flex justify-center gap-4">
                     <button type="submit" id="submit-button" class="mt-6 px-5 py-2 rounded-md bg-red-700 hover:bg-red-800 text-white font-semibold text-sm shadow-md">Submit</button>
-
-                    <button type="button" id="clear-button" class="mt-6 px-5 py-2 rounded-md bg-orange-600 hover:bg-orange-700 text-white font-semibold text-sm shadow-md">Clear</button>
                 </div>
             </form>
         </div>
 
-        <h2 id="output-header" data-base="Forecast Burn Windows" class="text-large text-center font-semibold p-2 mb-4">Forecast Burn Windows</h2>
-        <div id="forecast-link-container"></div>
-        <div id="legend-container"></div>
+        <h2 id="output-header" class="text-lg text-center font-semibold p-2 mb-4">NFDRS Values and Percentiles</h2>
+        <div id="station-link-container"></div>
+        <div id="graph-link-container"></div>
         <section id="output-container" class="max-w-screen-md mx-auto px-4" aria-live="polite"></section>
 
     </main>
@@ -113,7 +112,7 @@
     <footer class="text-center mt-8 text-sm text-zinc-500">
         <button id="install-button" class="hidden px-3 py-1.5 bg-green-600 hover:bg-red-800 text-white rounded mb-4 text-sm">Install App</button>
 
-        <p>&copy; 2025 evans-rxfire. Licensed under the
+        <p>&copy; 2026 evans-rxfire. Licensed under the
             <a href="LICENSE" target="_blank" rel="noopener noreferrer" class="text-red-600 hover:underline dark:text-red-400">MIT License</a>.
         </p>
 
