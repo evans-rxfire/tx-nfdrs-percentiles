@@ -43,21 +43,22 @@
                     ></span>
                 </label>
 
-                <fieldset class="border-2 border-zinc-300 dark:border-zinc-600 p-4 rounded-md mb-6">
+                <fieldset id="general-location" class="border-2 border-zinc-300 dark:border-zinc-600 p-4 rounded-md mb-6 disabled:opacity-50">
                     <legend class="font-semibold text-lg text-zinc-700 dark:text-zinc-300 mb-4 px-2">General Location</legend>
 
                     <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4 mb-4">
                         <label for="county-input" class="block font-semibold text-sm mb-1 text-zinc-700 dark:text-zinc-200">County</label>
-                        <input 
-                            type="text" 
+                        <select 
                             id="county-input" 
                             name="county-input" 
-                            class="w-[80%] px-3 py-2 border border-zinc-300 dark:border-zinc-600 rounded-md bg-white dark:bg-zinc-800 text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 dark:placeholder-zinc-500 focus:outline-none focus:ring-2 focus:ring-red-500 hover:ring-2 hover:ring-red-500"
+                            class="w-[80%] px-3 py-2 border border-zinc-300 dark:border-zinc-600 rounded-md bg-white dark:bg-zinc-800 text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 dark:placeholder-zinc-500 focus:outline-none enabled:focus:ring-2 focus:ring-red-500 enabled:hover:ring-2 hover:ring-red-500"
                         >
+                            <option value="" selected>Select a County</option>
+                        </select>
                     </div>
                 </fieldset>
 
-                <fieldset class="border-2 border-zinc-300 dark:border-zinc-600 p-4 rounded-md mb-6">
+                <fieldset id="specific-location" class="border-2 border-zinc-300 dark:border-zinc-600 p-4 rounded-md mb-6 disabled:opacity-50">
                     <legend class="font-semibold text-lg text-zinc-700 dark:text-zinc-300 mb-4 px-2">Specific Location</legend>
 
                     <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4 mb-4">
@@ -66,7 +67,7 @@
                             type="number" 
                             id="latitude-input" 
                             name="latitude-input" 
-                            class="w-full sm:w-[30%] px-3 py-2 border border-zinc-300 dark:border-zinc-600 rounded-md bg-white dark:bg-zinc-800 text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 dark:placeholder-zinc-500 focus:outline-none focus:ring-2 focus:ring-red-500 hover:ring-2 hover:ring-red-500" 
+                            class="w-full sm:w-[30%] px-3 py-2 border border-zinc-300 dark:border-zinc-600 rounded-md bg-white dark:bg-zinc-800 text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 dark:placeholder-zinc-500 focus:outline-none enabled:focus:ring-2 focus:ring-red-500 enabled:hover:ring-2 hover:ring-red-500" 
                             min="24.50000" 
                             max="49.00000" 
                             step="any" 
@@ -79,7 +80,7 @@
                             type="number" 
                             id="longitude-input" 
                             name="longitude-input" 
-                            class="w-full sm:w-[30%] px-3 py-2 border border-zinc-300 dark:border-zinc-600 rounded-md bg-white dark:bg-zinc-800 text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 dark:placeholder-zinc-500 focus:outline-none focus:ring-2 focus:ring-red-500 hover:ring-2 hover:ring-red-500" 
+                            class="w-full sm:w-[30%] px-3 py-2 border border-zinc-300 dark:border-zinc-600 rounded-md bg-white dark:bg-zinc-800 text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 dark:placeholder-zinc-500 focus:outline-none enabled:focus:ring-2 focus:ring-red-500 enabled:hover:ring-2 hover:ring-red-500" 
                             min="-125.00000" 
                             max="-66.50000" 
                             step="any" 
@@ -124,6 +125,7 @@
         Toggle Dark Mode</button>
     </footer>
     
+    <script src="js/percentileData.js" defer></script>
     <script src="js/main.js" defer></script>
     <script src="js/ui.js" defer></script>
 </body>
