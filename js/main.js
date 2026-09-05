@@ -1,6 +1,7 @@
 const locationToggle = document.getElementById("location-toggle");
 
 const generalLocationFieldset = document.getElementById("general-location");
+const countyList = document.getElementById("county-list");
 const countyInput = document.getElementById("county-input");
 
 const specificLocationFieldset = document.getElementById("specific-location");
@@ -16,8 +17,8 @@ specificLocationFieldset.disabled = true;
 texasCounties.forEach(county => {
     const option = document.createElement("option");
     option.value = county;
-    option.textContent = county;
-    countyInput.appendChild(option);
+    option.label = county;
+    countyList.appendChild(option);
 });
 
 
@@ -45,6 +46,7 @@ submitButton.addEventListener("click", (e) => {
     e.preventDefault();
     
     console.log("Submit button clicked.");
+    console.log(countyInput.value);
 });
 
 

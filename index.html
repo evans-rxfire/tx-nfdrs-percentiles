@@ -29,7 +29,7 @@
     <main class="max-w-3xl mx-auto mt-4 bg-white dark:bg-zinc-900 p-4 sm:p-6 rounded-md shadow-md space-y-6 text-zinc-900 dark:text-zinc-100">
         <div id="form-container">
             <form id="weather-form">
-                <h2 class="text-2xl text-center font-semibold">Enter location information to get NFDRS percentile.</h2>
+                <h2 class="text-2xl text-center font-semibold">Enter location information to get NFDRS percentiles.</h2>
 
                 <label class="relative flex items-center group p-2 text-lg " for="location-toggle">
                     Turn on specific location search?
@@ -48,13 +48,14 @@
 
                     <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4 mb-4">
                         <label for="county-input" class="block font-semibold text-sm mb-1 text-zinc-700 dark:text-zinc-200">County</label>
-                        <select 
+                        <input 
+                            type="text"
                             id="county-input" 
                             name="county-input" 
+                            list="county-list"
                             class="w-[80%] px-3 py-2 border border-zinc-300 dark:border-zinc-600 rounded-md bg-white dark:bg-zinc-800 text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 dark:placeholder-zinc-500 focus:outline-none enabled:focus:ring-2 focus:ring-red-500 enabled:hover:ring-2 hover:ring-red-500"
                         >
-                            <option value="" selected>Select a County</option>
-                        </select>
+                        <datalist id="county-list"></datalist>
                     </div>
                 </fieldset>
 
@@ -68,8 +69,8 @@
                             id="latitude-input" 
                             name="latitude-input" 
                             class="w-full sm:w-[30%] px-3 py-2 border border-zinc-300 dark:border-zinc-600 rounded-md bg-white dark:bg-zinc-800 text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 dark:placeholder-zinc-500 focus:outline-none enabled:focus:ring-2 focus:ring-red-500 enabled:hover:ring-2 hover:ring-red-500" 
-                            min="24.50000" 
-                            max="49.00000" 
+                            min="25.80000" 
+                            max="36.60000" 
                             step="any" 
                             placeholder="ex. 30.00000" 
                             required
@@ -81,8 +82,8 @@
                             id="longitude-input" 
                             name="longitude-input" 
                             class="w-full sm:w-[30%] px-3 py-2 border border-zinc-300 dark:border-zinc-600 rounded-md bg-white dark:bg-zinc-800 text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 dark:placeholder-zinc-500 focus:outline-none enabled:focus:ring-2 focus:ring-red-500 enabled:hover:ring-2 hover:ring-red-500" 
-                            min="-125.00000" 
-                            max="-66.50000" 
+                            min="-106.70000" 
+                            max="-93.50000" 
                             step="any" 
                             placeholder="ex. -98.00000" 
                             required
