@@ -3480,38 +3480,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.46, 
+                twentyFifthPercentile: 12.82, 
+                tenthPercentile: 11.49, 
+                thirdPercentile: 10.47
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 22.29, 
+                twentyFifthPercentile: 17.68, 
+                tenthPercentile: 15.58, 
+                thirdPercentile: 14.46
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 23.79, 
+                twentyFifthPercentile: 19.42, 
+                tenthPercentile: 17.40, 
+                thirdPercentile: 16.20
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 39, 
+                twentyFifthPercentile: 54, 
+                tenthPercentile: 67, 
+                thirdPercentile: 81
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 33, 
+                twentyFifthPercentile: 49, 
+                tenthPercentile: 61, 
+                thirdPercentile: 73
             } 
         ]
     }, 
@@ -3527,38 +3527,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.54, 
+                twentyFifthPercentile: 10.83, 
+                tenthPercentile: 9.90, 
+                thirdPercentile: 8.70
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.31, 
+                twentyFifthPercentile: 15.89, 
+                tenthPercentile: 15.19, 
+                thirdPercentile: 14.54
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.81, 
+                twentyFifthPercentile: 17.53, 
+                tenthPercentile: 16.79, 
+                thirdPercentile: 16.30
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 76, 
+                thirdPercentile: 89
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 50, 
+                twentyFifthPercentile: 65, 
+                tenthPercentile: 79, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -3574,38 +3574,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.62, 
+                twentyFifthPercentile: 10.93, 
+                tenthPercentile: 9.98, 
+                thirdPercentile: 8.86
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.41, 
+                twentyFifthPercentile: 15.97, 
+                tenthPercentile: 15.22, 
+                thirdPercentile: 14.62
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.92, 
+                twentyFifthPercentile: 17.61, 
+                tenthPercentile: 16.84, 
+                thirdPercentile: 16.39
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 74, 
+                thirdPercentile: 88
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 49, 
+                twentyFifthPercentile: 64, 
+                tenthPercentile: 78, 
+                thirdPercentile: 87
             } 
         ]
     }, 
@@ -3621,38 +3621,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.66, 
+                twentyFifthPercentile: 9.95, 
+                tenthPercentile: 9.22, 
+                thirdPercentile: 8.48
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.65, 
+                twentyFifthPercentile: 15.14, 
+                tenthPercentile: 14.37, 
+                thirdPercentile: 13.66
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.29, 
+                twentyFifthPercentile: 16.76, 
+                tenthPercentile: 15.93, 
+                thirdPercentile: 15.34
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 49, 
+                twentyFifthPercentile: 63, 
+                tenthPercentile: 77, 
+                thirdPercentile: 89
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 51, 
+                twentyFifthPercentile: 66, 
+                tenthPercentile: 79, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -3668,38 +3668,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.21, 
+                twentyFifthPercentile: 10.47, 
+                tenthPercentile: 9.72, 
+                thirdPercentile: 8.92
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.16, 
+                twentyFifthPercentile: 15.62, 
+                tenthPercentile: 14.79, 
+                thirdPercentile: 14.21
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.70, 
+                twentyFifthPercentile: 17.25, 
+                tenthPercentile: 16.39, 
+                thirdPercentile: 15.89
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 49, 
+                twentyFifthPercentile: 65, 
+                tenthPercentile: 79, 
+                thirdPercentile: 90
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 50, 
+                twentyFifthPercentile: 65, 
+                tenthPercentile: 81, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -3715,38 +3715,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.95, 
+                twentyFifthPercentile: 11.92, 
+                tenthPercentile: 11.13, 
+                thirdPercentile: 10.06
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.97, 
+                twentyFifthPercentile: 16.33, 
+                tenthPercentile: 15.46, 
+                thirdPercentile: 14.95
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.62, 
+                twentyFifthPercentile: 18.08, 
+                tenthPercentile: 17.14, 
+                thirdPercentile: 16.69
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 49, 
+                twentyFifthPercentile: 63, 
+                tenthPercentile: 75, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 70, 
+                thirdPercentile: 82
             } 
         ]
     }, 
@@ -3762,38 +3762,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.54, 
+                twentyFifthPercentile: 10.07, 
+                tenthPercentile: 9.37, 
+                thirdPercentile: 8.68
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.74, 
+                twentyFifthPercentile: 15.24, 
+                tenthPercentile: 14.38, 
+                thirdPercentile: 13.54
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.32, 
+                twentyFifthPercentile: 16.81, 
+                tenthPercentile: 15.99, 
+                thirdPercentile: 15.23
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 62, 
+                tenthPercentile: 75, 
+                thirdPercentile: 87
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 52, 
+                twentyFifthPercentile: 66, 
+                tenthPercentile: 79, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -3809,38 +3809,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.95, 
+                twentyFifthPercentile: 10.39, 
+                tenthPercentile: 9.32, 
+                thirdPercentile: 8.04
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.38, 
+                twentyFifthPercentile: 15.75, 
+                tenthPercentile: 14.53, 
+                thirdPercentile: 13.01
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.16, 
+                twentyFifthPercentile: 17.62, 
+                tenthPercentile: 16.22, 
+                thirdPercentile: 14.70
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 41, 
+                twentyFifthPercentile: 57, 
+                tenthPercentile: 71, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 41, 
+                twentyFifthPercentile: 57, 
+                tenthPercentile: 71, 
+                thirdPercentile: 87
             } 
         ]
     }, 
@@ -3856,38 +3856,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.67, 
+                twentyFifthPercentile: 10.23, 
+                tenthPercentile: 9.10, 
+                thirdPercentile: 7.77
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.27, 
+                twentyFifthPercentile: 15.76, 
+                tenthPercentile: 14.53, 
+                thirdPercentile: 13.01
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.19, 
+                twentyFifthPercentile: 17.51, 
+                tenthPercentile: 16.23, 
+                thirdPercentile: 14.47
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 42, 
+                twentyFifthPercentile: 57, 
+                tenthPercentile: 71, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 41, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 70, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -3903,38 +3903,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.39, 
+                twentyFifthPercentile: 9.97, 
+                tenthPercentile: 8.73, 
+                thirdPercentile: 7.42
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.86, 
+                twentyFifthPercentile: 15.32, 
+                tenthPercentile: 14.02, 
+                thirdPercentile: 12.16
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.69, 
+                twentyFifthPercentile: 17.19, 
+                tenthPercentile: 15.73, 
+                thirdPercentile: 13.60
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 74, 
+                thirdPercentile: 87,
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 42, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 69, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -3950,38 +3950,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.99, 
+                twentyFifthPercentile: 10.57, 
+                tenthPercentile: 9.32, 
+                thirdPercentile: 7.97
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.33, 
+                twentyFifthPercentile: 15.78, 
+                tenthPercentile: 14.48, 
+                thirdPercentile: 12.76
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.76, 
+                twentyFifthPercentile: 17.43, 
+                tenthPercentile: 16.08, 
+                thirdPercentile: 14.16
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 45, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 74, 
+                thirdPercentile: 87
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 42, 
+                twentyFifthPercentile: 57, 
+                tenthPercentile: 70, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -3997,38 +3997,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.93, 
+                twentyFifthPercentile: 9.31, 
+                tenthPercentile: 7.86, 
+                thirdPercentile: 6.57
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.50, 
+                twentyFifthPercentile: 14.73, 
+                tenthPercentile: 12.85, 
+                thirdPercentile: 10.72
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.10, 
+                twentyFifthPercentile: 16.57, 
+                tenthPercentile: 14.62, 
+                thirdPercentile: 12.01
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 44, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 41, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 69, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -4044,38 +4044,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.91, 
+                twentyFifthPercentile: 10.49, 
+                tenthPercentile: 9.25, 
+                thirdPercentile: 7.85
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.28, 
+                twentyFifthPercentile: 15.80, 
+                tenthPercentile: 14.45, 
+                thirdPercentile: 12.65
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.75, 
+                twentyFifthPercentile: 17.46, 
+                tenthPercentile: 16.04, 
+                thirdPercentile: 13.91
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 74, 
+                thirdPercentile: 87
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 69, 
+                thirdPercentile: 87
             } 
         ]
     }, 
@@ -4091,38 +4091,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.83, 
+                twentyFifthPercentile: 10.36, 
+                tenthPercentile: 9.20, 
+                thirdPercentile: 8.00
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.26, 
+                twentyFifthPercentile: 15.64, 
+                tenthPercentile: 14.39, 
+                thirdPercentile: 12.77
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.14, 
+                twentyFifthPercentile: 17.54, 
+                tenthPercentile: 16.27, 
+                thirdPercentile: 14.59
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 42, 
+                twentyFifthPercentile: 57, 
+                tenthPercentile: 71, 
+                thirdPercentile: 86,
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 40, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 70, 
+                thirdPercentile: 86
             } 
         ]
     }, 
@@ -4138,38 +4138,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.33, 
+                twentyFifthPercentile: 10.65, 
+                tenthPercentile: 9.64, 
+                thirdPercentile: 8.93
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.53, 
+                twentyFifthPercentile: 15.56, 
+                tenthPercentile: 14.26, 
+                thirdPercentile: 13.51
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.65, 
+                twentyFifthPercentile: 17.54, 
+                tenthPercentile: 16.09, 
+                thirdPercentile: 15.31
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 44, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 71, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 44, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 72, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -4185,38 +4185,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.98, 
+                twentyFifthPercentile: 10.48, 
+                tenthPercentile: 9.44, 
+                thirdPercentile: 8.37
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.54, 
+                twentyFifthPercentile: 15.74, 
+                tenthPercentile: 14.57, 
+                thirdPercentile: 13.58
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.56, 
+                twentyFifthPercentile: 17.63, 
+                tenthPercentile: 16.40, 
+                thirdPercentile: 15.31
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 57, 
+                tenthPercentile: 71, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 41, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 70, 
+                thirdPercentile: 87
             } 
         ]
     }, 
@@ -4232,38 +4232,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.97, 
+                twentyFifthPercentile: 10.56, 
+                tenthPercentile: 9.55, 
+                thirdPercentile: 8.38
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.54, 
+                twentyFifthPercentile: 15.90, 
+                tenthPercentile: 14.83, 
+                thirdPercentile: 13.78
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.53, 
+                twentyFifthPercentile: 17.72, 
+                tenthPercentile: 16.57, 
+                thirdPercentile: 15.41
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 57, 
+                tenthPercentile: 71, 
+                thirdPercentile: 85,
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 42, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 70, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -4279,38 +4279,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.10, 
+                twentyFifthPercentile: 10.70, 
+                tenthPercentile: 9.43, 
+                thirdPercentile: 8.18,
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.59, 
+                twentyFifthPercentile: 16.14, 
+                tenthPercentile: 14.77, 
+                thirdPercentile: 13.13
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.16, 
+                twentyFifthPercentile: 17.79, 
+                tenthPercentile: 16.48, 
+                thirdPercentile: 14.62
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 44, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 42, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 69, 
+                thirdPercentile: 85
             } 
         ]
     }, 
@@ -4326,38 +4326,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.61, 
+                twentyFifthPercentile: 10.83, 
+                tenthPercentile: 9.78, 
+                thirdPercentile: 8.99
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.76, 
+                twentyFifthPercentile: 15.86, 
+                tenthPercentile: 14.51, 
+                thirdPercentile: 13.73
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.81, 
+                twentyFifthPercentile: 17.76, 
+                tenthPercentile: 16.41, 
+                thirdPercentile: 15.54
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 72, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 42, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 72, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -4372,38 +4372,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.01, 
+                twentyFifthPercentile: 10.52, 
+                tenthPercentile: 9.51, 
+                thirdPercentile: 8.52
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.68, 
+                twentyFifthPercentile: 15.88, 
+                tenthPercentile: 14.82, 
+                thirdPercentile: 13.84
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.64, 
+                twentyFifthPercentile: 17.69, 
+                tenthPercentile: 16.45, 
+                thirdPercentile: 15.30
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 71, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 41, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 69, 
+                thirdPercentile: 85
             } 
         ]
     }, 
@@ -4419,38 +4419,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.64, 
+                twentyFifthPercentile: 8.01, 
+                tenthPercentile: 6.62, 
+                thirdPercentile: 5.29
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.10, 
+                twentyFifthPercentile: 12.10, 
+                tenthPercentile: 10.54, 
+                thirdPercentile: 8.86
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.43, 
+                twentyFifthPercentile: 13.66, 
+                tenthPercentile: 12.11, 
+                thirdPercentile: 10.46
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 45, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 71, 
+                thirdPercentile: 83
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 51, 
+                twentyFifthPercentile: 64, 
+                tenthPercentile: 75, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -4466,38 +4466,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.48, 
+                twentyFifthPercentile: 7.79, 
+                tenthPercentile: 6.37, 
+                thirdPercentile: 5.03
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.90, 
+                twentyFifthPercentile: 11.90, 
+                tenthPercentile: 10.26, 
+                thirdPercentile: 8.58
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.26, 
+                twentyFifthPercentile: 13.45, 
+                tenthPercentile: 11.91, 
+                thirdPercentile: 10.08
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 45, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 51, 
+                twentyFifthPercentile: 63, 
+                tenthPercentile: 74, 
+                thirdPercentile: 87
             } 
         ]
     }, 
@@ -4513,38 +4513,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.89, 
+                twentyFifthPercentile: 8.17, 
+                tenthPercentile: 6.75, 
+                thirdPercentile: 5.50
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.40, 
+                twentyFifthPercentile: 12.25, 
+                tenthPercentile: 10.52, 
+                thirdPercentile: 9.08
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.67, 
+                twentyFifthPercentile: 13.88, 
+                tenthPercentile: 12.14, 
+                thirdPercentile: 10.54
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 44, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 71, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 50, 
+                twentyFifthPercentile: 64, 
+                tenthPercentile: 76, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -4560,38 +4560,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.49, 
+                twentyFifthPercentile: 7.82, 
+                tenthPercentile: 6.40, 
+                thirdPercentile: 5.08
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.89, 
+                twentyFifthPercentile: 11.92, 
+                tenthPercentile: 10.30, 
+                thirdPercentile: 8.65
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.24, 
+                twentyFifthPercentile: 13.46, 
+                tenthPercentile: 11.86, 
+                thirdPercentile: 10.14
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 45, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 51, 
+                twentyFifthPercentile: 63, 
+                tenthPercentile: 74, 
+                thirdPercentile: 87
             } 
         ]
     }, 
@@ -4607,38 +4607,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.36, 
+                twentyFifthPercentile: 7.72, 
+                tenthPercentile: 6.42, 
+                thirdPercentile: 5.31
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.72, 
+                twentyFifthPercentile: 11.70, 
+                tenthPercentile: 10.09, 
+                thirdPercentile: 8.74
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.99, 
+                twentyFifthPercentile: 13.17, 
+                tenthPercentile: 11.55, 
+                thirdPercentile: 10.09
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 60, 
+                tenthPercentile: 73, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 53, 
+                twentyFifthPercentile: 65, 
+                tenthPercentile: 76, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -4654,38 +4654,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.68, 
+                twentyFifthPercentile: 7.92, 
+                tenthPercentile: 6.51, 
+                thirdPercentile: 5.33
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.18, 
+                twentyFifthPercentile: 12.16, 
+                tenthPercentile: 10.45, 
+                thirdPercentile: 8.76
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.50, 
+                twentyFifthPercentile: 13.70, 
+                tenthPercentile: 12.14, 
+                thirdPercentile: 9.93
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 45, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 50, 
+                twentyFifthPercentile: 63, 
+                tenthPercentile: 74, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -4701,38 +4701,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.50, 
+                twentyFifthPercentile: 7.83, 
+                tenthPercentile: 6.44, 
+                thirdPercentile: 5.22
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.98, 
+                twentyFifthPercentile: 11.89, 
+                tenthPercentile: 10.24, 
+                thirdPercentile: 8.52
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.25, 
+                twentyFifthPercentile: 13.37, 
+                tenthPercentile: 11.88, 
+                thirdPercentile: 9.82
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 44, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 71, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 50, 
+                twentyFifthPercentile: 64, 
+                tenthPercentile: 75, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -4748,38 +4748,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.54, 
+                twentyFifthPercentile: 7.75, 
+                tenthPercentile: 6.39, 
+                thirdPercentile: 5.27
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.32, 
+                twentyFifthPercentile: 12.15, 
+                tenthPercentile: 10.29, 
+                thirdPercentile: 8.62
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.72, 
+                twentyFifthPercentile: 13.76, 
+                tenthPercentile: 12.05, 
+                thirdPercentile: 9.65
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 72, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -4795,38 +4795,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.79, 
+                twentyFifthPercentile: 8.00, 
+                tenthPercentile: 6.63, 
+                thirdPercentile: 5.52
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.46, 
+                twentyFifthPercentile: 12.31, 
+                tenthPercentile: 10.54, 
+                thirdPercentile: 8.88
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.80, 
+                twentyFifthPercentile: 13.86, 
+                tenthPercentile: 12.27, 
+                thirdPercentile: 9.97
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 60, 
+                tenthPercentile: 73, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 50, 
+                twentyFifthPercentile: 63, 
+                tenthPercentile: 75, 
+                thirdPercentile: 91
             } 
         ]
     }, 
@@ -4842,38 +4842,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.33, 
+                twentyFifthPercentile: 7.54, 
+                tenthPercentile: 6.13, 
+                thirdPercentile: 5.02
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.03, 
+                twentyFifthPercentile: 11.86, 
+                tenthPercentile: 10.00, 
+                thirdPercentile: 8.28
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.45, 
+                twentyFifthPercentile: 13.46, 
+                tenthPercentile: 11.65, 
+                thirdPercentile: 9.36
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 49, 
+                twentyFifthPercentile: 62, 
+                tenthPercentile: 74, 
+                thirdPercentile: 91
             } 
         ]
     }, 
@@ -4889,38 +4889,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.66, 
+                twentyFifthPercentile: 7.89, 
+                tenthPercentile: 6.50, 
+                thirdPercentile: 5.38
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.46, 
+                twentyFifthPercentile: 12.31, 
+                tenthPercentile: 10.55, 
+                thirdPercentile: 8.75
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.88, 
+                twentyFifthPercentile: 13.93, 
+                tenthPercentile: 12.16, 
+                thirdPercentile: 9.85
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 73, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 73, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -4936,38 +4936,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.56, 
+                twentyFifthPercentile: 7.79, 
+                tenthPercentile: 6.42, 
+                thirdPercentile: 5.32
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.28, 
+                twentyFifthPercentile: 12.13, 
+                tenthPercentile: 10.36, 
+                thirdPercentile: 8.64
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.70, 
+                twentyFifthPercentile: 13.74, 
+                tenthPercentile: 12.06, 
+                thirdPercentile: 9.72
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 60, 
+                tenthPercentile: 73, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 50, 
+                twentyFifthPercentile: 62, 
+                tenthPercentile: 74, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -4983,38 +4983,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.89, 
+                twentyFifthPercentile: 8.20, 
+                tenthPercentile: 6.72, 
+                thirdPercentile: 5.54
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.66, 
+                twentyFifthPercentile: 12.43, 
+                tenthPercentile: 10.59, 
+                thirdPercentile: 8.79
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.03, 
+                twentyFifthPercentile: 14.01, 
+                tenthPercentile: 12.20, 
+                thirdPercentile: 9.88
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 45, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 71, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 70, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -5030,38 +5030,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.89, 
+                twentyFifthPercentile: 9.36, 
+                tenthPercentile: 7.90, 
+                thirdPercentile: 6.43
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.76, 
+                twentyFifthPercentile: 13.95, 
+                tenthPercentile: 12.20, 
+                thirdPercentile: 10.24
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.05, 
+                twentyFifthPercentile: 15.44, 
+                tenthPercentile: 13.85, 
+                thirdPercentile: 11.66
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 44, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 70, 
+                thirdPercentile: 86
             } 
         ]
     }, 
@@ -5077,38 +5077,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.86, 
+                twentyFifthPercentile: 8.08, 
+                tenthPercentile: 6.63, 
+                thirdPercentile: 5.35
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.36, 
+                twentyFifthPercentile: 12.34, 
+                tenthPercentile: 10.59, 
+                thirdPercentile: 8.79
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.62, 
+                twentyFifthPercentile: 13.80, 
+                tenthPercentile: 12.19, 
+                thirdPercentile: 10.27
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 45, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 49, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 72, 
+                thirdPercentile: 86
             } 
         ]
     }, 
@@ -5124,38 +5124,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.37, 
+                twentyFifthPercentile: 8.62, 
+                tenthPercentile: 7.02, 
+                thirdPercentile: 5.59
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.20, 
+                twentyFifthPercentile: 13.29, 
+                tenthPercentile: 11.28, 
+                thirdPercentile: 9.09
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.59, 
+                twentyFifthPercentile: 14.79, 
+                tenthPercentile: 13.04, 
+                thirdPercentile: 10.34
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 44, 
+                twentyFifthPercentile: 57, 
+                tenthPercentile: 70, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 44, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 69, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -5171,38 +5171,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.84, 
+                twentyFifthPercentile: 8.07, 
+                tenthPercentile: 6.53, 
+                thirdPercentile: 5.20
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.46, 
+                twentyFifthPercentile: 12.46, 
+                tenthPercentile: 10.61, 
+                thirdPercentile: 8.51
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.73, 
+                twentyFifthPercentile: 13.87, 
+                tenthPercentile: 12.09, 
+                thirdPercentile: 9.55
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 44, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 71, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 70, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -5218,38 +5218,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0, 
+                fiftiethPercentile: 9.91, 
+                twentyFifthPercentile: 8.32, 
+                tenthPercentile: 6.78, 
+                thirdPercentile: 5.54 
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0, 
+                fiftiethPercentile: 14.74, 
+                twentyFifthPercentile: 12.62, 
+                tenthPercentile: 10.78, 
+                thirdPercentile: 8.77
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0, 
+                fiftiethPercentile: 16.15, 
+                twentyFifthPercentile: 14.13, 
+                tenthPercentile: 12.33, 
+                thirdPercentile: 9.93
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0, 
+                fiftiethPercentile: 45, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 86 
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 71, 
+                thirdPercentile: 91
             } 
         ]
     }, 
@@ -5265,38 +5265,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.57, 
+                twentyFifthPercentile: 7.89, 
+                tenthPercentile: 6.44, 
+                thirdPercentile: 5.13
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.06, 
+                twentyFifthPercentile: 12.04, 
+                tenthPercentile: 10.38, 
+                thirdPercentile: 8.72
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.40, 
+                twentyFifthPercentile: 13.53, 
+                tenthPercentile: 12.06, 
+                thirdPercentile: 10.11
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 73, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 50, 
+                twentyFifthPercentile: 63, 
+                tenthPercentile: 74, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -5312,38 +5312,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.30, 
+                twentyFifthPercentile: 8.51, 
+                tenthPercentile: 6.84, 
+                thirdPercentile: 5.53
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.14, 
+                twentyFifthPercentile: 13.18, 
+                tenthPercentile: 11.10, 
+                thirdPercentile: 9.00
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.46, 
+                twentyFifthPercentile: 14.71, 
+                tenthPercentile: 12.74, 
+                thirdPercentile: 10.37
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 45, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 71, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 44, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 69, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -5359,38 +5359,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.88, 
+                twentyFifthPercentile: 8.18, 
+                tenthPercentile: 6.70, 
+                thirdPercentile: 5.54
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.66, 
+                twentyFifthPercentile: 12.47, 
+                tenthPercentile: 10.63, 
+                thirdPercentile: 8.74
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.03, 
+                twentyFifthPercentile: 14.00, 
+                tenthPercentile: 12.21, 
+                thirdPercentile: 9.83
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 45, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 71, 
+                thirdPercentile: 91
             } 
         ]
     }, 
@@ -5406,38 +5406,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.04, 
+                twentyFifthPercentile: 8.42, 
+                tenthPercentile: 7.14, 
+                thirdPercentile: 5.99
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.10, 
+                twentyFifthPercentile: 13.08, 
+                tenthPercentile: 11.39, 
+                thirdPercentile: 9.77
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.52, 
+                twentyFifthPercentile: 14.76, 
+                tenthPercentile: 13.04, 
+                thirdPercentile: 10.99
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 45, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 71, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 44, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 70, 
+                thirdPercentile: 86
             } 
         ]
     }, 
@@ -5453,38 +5453,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.34, 
+                twentyFifthPercentile: 8.80, 
+                tenthPercentile: 7.46, 
+                thirdPercentile: 6.27
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.42, 
+                twentyFifthPercentile: 13.56, 
+                tenthPercentile: 11.90, 
+                thirdPercentile: 9.97
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.88, 
+                twentyFifthPercentile: 15.09, 
+                tenthPercentile: 13.47, 
+                thirdPercentile: 11.16
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 45, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 71, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -5500,38 +5500,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.86, 
+                twentyFifthPercentile: 8.20, 
+                tenthPercentile: 6.89, 
+                thirdPercentile: 5.88
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.91, 
+                twentyFifthPercentile: 12.99, 
+                tenthPercentile: 11.27, 
+                thirdPercentile: 9.51
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.33, 
+                twentyFifthPercentile: 14.60, 
+                tenthPercentile: 12.93, 
+                thirdPercentile: 10.89
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 74, 
+                thirdPercentile: 87
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 62, 
+                tenthPercentile: 73, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -5547,38 +5547,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0, 
+                fiftiethPercentile: 10.41, 
+                twentyFifthPercentile: 8.77, 
+                tenthPercentile: 7.53, 
+                thirdPercentile: 5.48
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0, 
+                fiftiethPercentile: 15.88, 
+                twentyFifthPercentile: 13.93, 
+                tenthPercentile: 12.44, 
+                thirdPercentile: 10.97
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.64, 
+                twentyFifthPercentile: 15.60, 
+                tenthPercentile: 14.12, 
+                thirdPercentile: 12.81
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 49, 
+                twentyFifthPercentile: 62, 
+                tenthPercentile: 75, 
+                thirdPercentile: 87
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 50, 
+                twentyFifthPercentile: 64, 
+                tenthPercentile: 77, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -5594,38 +5594,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.60, 
+                twentyFifthPercentile: 9.18, 
+                tenthPercentile: 8.18, 
+                thirdPercentile: 7.16
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.11, 
+                twentyFifthPercentile: 14.53, 
+                tenthPercentile: 13.50, 
+                thirdPercentile: 12.19
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.38, 
+                twentyFifthPercentile: 16.18, 
+                tenthPercentile: 15.12, 
+                thirdPercentile: 14.07
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 63, 
+                tenthPercentile: 77, 
+                thirdPercentile: 88
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 50, 
+                twentyFifthPercentile: 66, 
+                tenthPercentile: 79, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -5641,38 +5641,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0, 
+                fiftiethPercentile: 11.41, 
+                twentyFifthPercentile: 9.97, 
+                tenthPercentile: 8.86, 
+                thirdPercentile: 7.90
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.73, 
+                twentyFifthPercentile: 15.18, 
+                tenthPercentile: 13.92, 
+                thirdPercentile: 12.66
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.16, 
+                twentyFifthPercentile: 16.72, 
+                tenthPercentile: 15.67, 
+                thirdPercentile: 14.63
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 62, 
+                tenthPercentile: 75, 
+                thirdPercentile: 88
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 52, 
+                twentyFifthPercentile: 67, 
+                tenthPercentile: 79, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -5688,38 +5688,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.54, 
+                twentyFifthPercentile: 10.03, 
+                tenthPercentile: 8.86, 
+                thirdPercentile: 7.85
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.99, 
+                twentyFifthPercentile: 15.47, 
+                tenthPercentile: 14.25, 
+                thirdPercentile: 12.96
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.49, 
+                twentyFifthPercentile: 17.02, 
+                tenthPercentile: 15.86, 
+                thirdPercentile: 14.78
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 49, 
+                twentyFifthPercentile: 63, 
+                tenthPercentile: 76, 
+                thirdPercentile: 90
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 51, 
+                twentyFifthPercentile: 66, 
+                tenthPercentile: 79, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -5735,38 +5735,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.37, 
+                twentyFifthPercentile: 10.00, 
+                tenthPercentile: 9.07, 
+                thirdPercentile: 8.15
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.85, 
+                twentyFifthPercentile: 15.31, 
+                tenthPercentile: 14.42, 
+                thirdPercentile: 13.63
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.56, 
+                twentyFifthPercentile: 17.03, 
+                tenthPercentile: 16.11, 
+                thirdPercentile: 15.34
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 75, 
+                thirdPercentile: 90
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 50, 
+                twentyFifthPercentile: 65, 
+                tenthPercentile: 79, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -5782,38 +5782,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.06, 
+                twentyFifthPercentile: 9.64, 
+                tenthPercentile: 8.81, 
+                thirdPercentile: 7.89
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.54, 
+                twentyFifthPercentile: 15.06, 
+                tenthPercentile: 14.18, 
+                thirdPercentile: 13.41
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.19, 
+                twentyFifthPercentile: 16.72, 
+                tenthPercentile: 15.75, 
+                thirdPercentile: 15.07
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 62, 
+                tenthPercentile: 79, 
+                thirdPercentile: 92
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 51, 
+                twentyFifthPercentile: 66, 
+                tenthPercentile: 81, 
+                thirdPercentile: 91
             } 
         ]
     }, 
@@ -5829,38 +5829,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.05, 
+                twentyFifthPercentile: 9.50, 
+                tenthPercentile: 8.46, 
+                thirdPercentile: 7.35
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.43, 
+                twentyFifthPercentile: 14.85, 
+                tenthPercentile: 13.77, 
+                thirdPercentile: 12.46
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.78, 
+                twentyFifthPercentile: 16.35, 
+                tenthPercentile: 15.31, 
+                thirdPercentile: 14.31
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 60, 
+                tenthPercentile: 75, 
+                thirdPercentile: 89
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 51, 
+                twentyFifthPercentile: 67, 
+                tenthPercentile: 80, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -5876,38 +5876,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.93, 
+                twentyFifthPercentile: 9.57, 
+                tenthPercentile: 8.78, 
+                thirdPercentile: 7.77
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.39, 
+                twentyFifthPercentile: 14.86, 
+                tenthPercentile: 14.03, 
+                thirdPercentile: 13.19
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.94, 
+                twentyFifthPercentile: 16.45, 
+                tenthPercentile: 15.56, 
+                thirdPercentile: 14.94
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 64, 
+                tenthPercentile: 78, 
+                thirdPercentile: 89
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 52, 
+                twentyFifthPercentile: 66, 
+                tenthPercentile: 80, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -5923,38 +5923,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.32, 
+                twentyFifthPercentile: 10.82, 
+                tenthPercentile: 9.81, 
+                thirdPercentile: 8.99
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.82, 
+                twentyFifthPercentile: 16.06, 
+                tenthPercentile: 15.04, 
+                thirdPercentile: 14.21
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.76, 
+                twentyFifthPercentile: 17.86, 
+                tenthPercentile: 16.67, 
+                thirdPercentile: 15.74
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 44, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 71, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 42, 
+                twentyFifthPercentile: 57, 
+                tenthPercentile: 70, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -5970,38 +5970,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.98, 
+                twentyFifthPercentile: 11.10, 
+                tenthPercentile: 10.01, 
+                thirdPercentile: 9.14
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.15, 
+                twentyFifthPercentile: 16.05, 
+                tenthPercentile: 14.87, 
+                thirdPercentile: 14.02
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 20.04, 
+                twentyFifthPercentile: 17.88, 
+                tenthPercentile: 16.64, 
+                thirdPercentile: 15.55
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 41, 
+                twentyFifthPercentile: 55, 
+                tenthPercentile: 69, 
+                thirdPercentile: 83
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 40, 
+                twentyFifthPercentile: 55, 
+                tenthPercentile: 70, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -6017,38 +6017,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.41, 
+                twentyFifthPercentile: 10.74, 
+                tenthPercentile: 9.71, 
+                thirdPercentile: 8.74
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.92, 
+                twentyFifthPercentile: 16.99, 
+                tenthPercentile: 14.93, 
+                thirdPercentile: 14.11
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.86, 
+                twentyFifthPercentile: 17.72, 
+                tenthPercentile: 16.54, 
+                thirdPercentile: 15.67
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 73, 
+                thirdPercentile: 88
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 41, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 71, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -6064,38 +6064,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.31, 
+                twentyFifthPercentile: 10.78, 
+                tenthPercentile: 9.78, 
+                thirdPercentile: 9.00
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.85, 
+                twentyFifthPercentile: 16.99, 
+                tenthPercentile: 14.95, 
+                thirdPercentile: 14.12
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.78, 
+                twentyFifthPercentile: 17.78, 
+                tenthPercentile: 16.55, 
+                thirdPercentile: 15.73
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 70, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 57, 
+                tenthPercentile: 69, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -6111,38 +6111,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.10, 
+                twentyFifthPercentile: 11.16, 
+                tenthPercentile: 10.07, 
+                thirdPercentile: 9.15
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.23, 
+                twentyFifthPercentile: 16.15, 
+                tenthPercentile: 14.90, 
+                thirdPercentile: 14.08
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 20.08, 
+                twentyFifthPercentile: 17.95, 
+                tenthPercentile: 16.68, 
+                thirdPercentile: 15.64
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 39, 
+                twentyFifthPercentile: 53, 
+                tenthPercentile: 68, 
+                thirdPercentile: 81
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 39, 
+                twentyFifthPercentile: 54, 
+                tenthPercentile: 69, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -6158,38 +6158,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.23, 
+                twentyFifthPercentile: 10.53, 
+                tenthPercentile: 9.50, 
+                thirdPercentile: 8.51
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.75, 
+                twentyFifthPercentile: 15.94, 
+                tenthPercentile: 14.82, 
+                thirdPercentile: 13.98
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.71, 
+                twentyFifthPercentile: 17.84, 
+                tenthPercentile: 16.56, 
+                thirdPercentile: 15.61
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 42, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 70, 
+                thirdPercentile: 83
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 42, 
+                twentyFifthPercentile: 57, 
+                tenthPercentile: 71, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -6205,38 +6205,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.47, 
+                twentyFifthPercentile: 11.63, 
+                tenthPercentile: 10.62, 
+                thirdPercentile: 9.72
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.76, 
+                twentyFifthPercentile: 16.86, 
+                tenthPercentile: 15.69, 
+                thirdPercentile: 14.87
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 20.67, 
+                twentyFifthPercentile: 18.66, 
+                tenthPercentile: 17.48, 
+                thirdPercentile: 16.46
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 42, 
+                twentyFifthPercentile: 57, 
+                tenthPercentile: 70, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 41, 
+                twentyFifthPercentile: 55, 
+                tenthPercentile: 69, 
+                thirdPercentile: 85
             } 
         ]
     }, 
@@ -6252,38 +6252,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.62, 
+                twentyFifthPercentile: 11.02, 
+                tenthPercentile: 10.12, 
+                thirdPercentile: 9.29
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.92, 
+                twentyFifthPercentile: 16.10, 
+                tenthPercentile: 15.04, 
+                thirdPercentile: 14.39
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.81, 
+                twentyFifthPercentile: 17.98, 
+                tenthPercentile: 16.75, 
+                thirdPercentile: 16.12
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 71, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 72, 
+                thirdPercentile: 86
             } 
         ]
     }, 
@@ -6299,38 +6299,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.23, 
+                twentyFifthPercentile: 11.56, 
+                tenthPercentile: 10.53, 
+                thirdPercentile: 9.92
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.74, 
+                twentyFifthPercentile: 16.60, 
+                tenthPercentile: 15.41, 
+                thirdPercentile: 14.55
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 20.73, 
+                twentyFifthPercentile: 18.48, 
+                tenthPercentile: 17.14, 
+                thirdPercentile: 16.33
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 60, 
+                tenthPercentile: 72, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 57, 
+                tenthPercentile: 69, 
+                thirdPercentile: 83
             } 
         ]
     }, 
@@ -6346,38 +6346,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 8.65, 
+                twentyFifthPercentile: 6.97, 
+                tenthPercentile: 5.75, 
+                thirdPercentile: 4.78
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.46, 
+                twentyFifthPercentile: 10.5, 
+                tenthPercentile: 9.09, 
+                thirdPercentile: 7.91
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.75, 
+                twentyFifthPercentile: 11.90, 
+                tenthPercentile: 10.50, 
+                thirdPercentile: 9.01
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 57, 
+                twentyFifthPercentile: 69, 
+                tenthPercentile: 80, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -6393,38 +6393,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.43, 
+                twentyFifthPercentile: 7.67, 
+                tenthPercentile: 6.33, 
+                thirdPercentile: 5.26
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.89, 
+                twentyFifthPercentile: 11.68, 
+                tenthPercentile: 10.10, 
+                thirdPercentile: 8.58
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.18, 
+                twentyFifthPercentile: 13.28, 
+                tenthPercentile: 11.69, 
+                thirdPercentile: 9.85
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 73, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 53, 
+                twentyFifthPercentile: 65, 
+                tenthPercentile: 77, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -6440,38 +6440,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.46, 
+                twentyFifthPercentile: 7.68, 
+                tenthPercentile: 6.28, 
+                thirdPercentile: 5.28
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.90, 
+                twentyFifthPercentile: 11.71, 
+                tenthPercentile: 10.07, 
+                thirdPercentile: 8.55
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.19, 
+                twentyFifthPercentile: 13.28, 
+                tenthPercentile: 11.67, 
+                thirdPercentile: 9.77
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 60, 
+                tenthPercentile: 73, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 52, 
+                twentyFifthPercentile: 65, 
+                tenthPercentile: 77, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -6487,38 +6487,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.19, 
+                twentyFifthPercentile: 7.49, 
+                tenthPercentile: 6.21, 
+                thirdPercentile: 5.12
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.34, 
+                twentyFifthPercentile: 11.37, 
+                tenthPercentile: 10.01, 
+                thirdPercentile: 8.55
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.72, 
+                twentyFifthPercentile: 12.97, 
+                tenthPercentile: 11.48, 
+                thirdPercentile: 9.96
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 73, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 55, 
+                twentyFifthPercentile: 68, 
+                tenthPercentile: 77, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -6534,38 +6534,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 8.85, 
+                twentyFifthPercentile: 7.06, 
+                tenthPercentile: 5.87, 
+                thirdPercentile: 4.92
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.31, 
+                twentyFifthPercentile: 11.12, 
+                tenthPercentile: 9.60, 
+                thirdPercentile: 8.15
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.72, 
+                twentyFifthPercentile: 12.97, 
+                tenthPercentile: 11.48, 
+                thirdPercentile: 9.96
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 71, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 53, 
+                twentyFifthPercentile: 65, 
+                tenthPercentile: 76, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -6581,38 +6581,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.42, 
+                twentyFifthPercentile: 7.65, 
+                tenthPercentile: 6.43, 
+                thirdPercentile: 5.48
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.23, 
+                twentyFifthPercentile: 11.93, 
+                tenthPercentile: 10.28, 
+                thirdPercentile: 8.81
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.66, 
+                twentyFifthPercentile: 13.60, 
+                tenthPercentile: 12.00, 
+                thirdPercentile: 10.12
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 51, 
+                twentyFifthPercentile: 64, 
+                tenthPercentile: 76, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -6628,38 +6628,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.33, 
+                twentyFifthPercentile: 7.50, 
+                tenthPercentile: 6.29, 
+                thirdPercentile: 5.26
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.51, 
+                twentyFifthPercentile: 11.39, 
+                tenthPercentile: 9.88, 
+                thirdPercentile: 8.53
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.80, 
+                twentyFifthPercentile: 12.88, 
+                tenthPercentile: 11.38, 
+                thirdPercentile: 9.68
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 60, 
+                tenthPercentile: 72, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 53, 
+                twentyFifthPercentile: 65, 
+                tenthPercentile: 76, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -6675,38 +6675,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.76, 
+                twentyFifthPercentile: 8.05, 
+                tenthPercentile: 6.81, 
+                thirdPercentile: 5.81
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.75, 
+                twentyFifthPercentile: 12.69, 
+                tenthPercentile: 10.85, 
+                thirdPercentile: 9.45
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.29, 
+                twentyFifthPercentile: 14.30, 
+                tenthPercentile: 12.47, 
+                thirdPercentile: 10.70
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 73, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 49, 
+                twentyFifthPercentile: 63, 
+                tenthPercentile: 76, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -6722,38 +6722,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 7.27, 
+                twentyFifthPercentile: 5.55, 
+                tenthPercentile: 4.33, 
+                thirdPercentile: 3.43
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.88, 
+                twentyFifthPercentile: 7.93, 
+                tenthPercentile: 6.46, 
+                thirdPercentile: 5.41
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.83, 
+                twentyFifthPercentile: 8.98, 
+                tenthPercentile: 7.38, 
+                thirdPercentile: 6.33
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 44, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 70, 
+                thirdPercentile: 83
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 57, 
+                twentyFifthPercentile: 69, 
+                tenthPercentile: 80, 
+                thirdPercentile: 91
             } 
         ]
     }, 
@@ -6769,38 +6769,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 7.80, 
+                twentyFifthPercentile: 6.26, 
+                tenthPercentile: 5.10, 
+                thirdPercentile: 4.17
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.82, 
+                twentyFifthPercentile: 9.18, 
+                tenthPercentile: 7.92, 
+                thirdPercentile: 6.76
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.06, 
+                twentyFifthPercentile: 10.43, 
+                tenthPercentile: 9.32, 
+                thirdPercentile: 8.18
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 72, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 60, 
+                twentyFifthPercentile: 72, 
+                tenthPercentile: 82, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -6816,38 +6816,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 7.68, 
+                twentyFifthPercentile: 6.25, 
+                tenthPercentile: 5.05, 
+                thirdPercentile: 4.02
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.74, 
+                twentyFifthPercentile: 9.19, 
+                tenthPercentile: 7.93, 
+                thirdPercentile: 6.64
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.96, 
+                twentyFifthPercentile: 10.42, 
+                tenthPercentile: 9.23, 
+                thirdPercentile: 8.21
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 62, 
+                tenthPercentile: 75, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 59, 
+                twentyFifthPercentile: 72, 
+                tenthPercentile: 82, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -6863,38 +6863,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 8.91, 
+                twentyFifthPercentile: 7.41, 
+                tenthPercentile: 6.25, 
+                thirdPercentile: 5.06
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.88, 
+                twentyFifthPercentile: 10.26, 
+                tenthPercentile: 8.89, 
+                thirdPercentile: 7.73
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.22, 
+                twentyFifthPercentile: 11.64, 
+                tenthPercentile: 10.35, 
+                thirdPercentile: 9.03
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 62, 
+                tenthPercentile: 74, 
+                thirdPercentile: 87
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 58, 
+                twentyFifthPercentile: 71, 
+                tenthPercentile: 81, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -6910,38 +6910,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 8.07, 
+                twentyFifthPercentile: 6.64, 
+                tenthPercentile: 5.47, 
+                thirdPercentile: 4.41
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.05, 
+                twentyFifthPercentile: 9.43, 
+                tenthPercentile: 8.21, 
+                thirdPercentile: 7.14
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.27, 
+                twentyFifthPercentile: 10.70, 
+                tenthPercentile: 9.54, 
+                thirdPercentile: 8.53
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 60, 
+                tenthPercentile: 72, 
+                thirdPercentile: 83
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 60, 
+                twentyFifthPercentile: 71, 
+                tenthPercentile: 80, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -6957,38 +6957,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 8.06, 
+                twentyFifthPercentile: 6.47, 
+                tenthPercentile: 5.31, 
+                thirdPercentile: 4.41
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.32, 
+                twentyFifthPercentile: 9.58, 
+                tenthPercentile: 8.29, 
+                thirdPercentile: 7.27
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.58, 
+                twentyFifthPercentile: 10.87, 
+                tenthPercentile: 9.66, 
+                thirdPercentile: 8.61
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 60, 
+                tenthPercentile: 72, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 61, 
+                twentyFifthPercentile: 72, 
+                tenthPercentile: 81, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -7004,38 +7004,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 8.33, 
+                twentyFifthPercentile: 6.81, 
+                tenthPercentile: 5.65, 
+                thirdPercentile: 4.66
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.90, 
+                twentyFifthPercentile: 10.07, 
+                tenthPercentile: 8.76, 
+                thirdPercentile: 7.70
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.30, 
+                twentyFifthPercentile: 11.45, 
+                tenthPercentile: 10.33, 
+                thirdPercentile: 9.17
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 59, 
+                twentyFifthPercentile: 71, 
+                tenthPercentile: 81, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -7051,38 +7051,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 8.41, 
+                twentyFifthPercentile: 6.88, 
+                tenthPercentile: 5.72, 
+                thirdPercentile: 4.73
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.94, 
+                twentyFifthPercentile: 10.12, 
+                tenthPercentile: 8.80, 
+                thirdPercentile: 7.76
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.36, 
+                twentyFifthPercentile: 11.47, 
+                tenthPercentile: 10.38, 
+                thirdPercentile: 9.25
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 57, 
+                twentyFifthPercentile: 71, 
+                tenthPercentile: 80, 
+                thirdPercentile: 88
             } 
         ]
     }, 
@@ -7098,38 +7098,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 7.31, 
+                twentyFifthPercentile: 5.93, 
+                tenthPercentile: 4.92, 
+                thirdPercentile: 4.11
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.78, 
+                twentyFifthPercentile: 9.06, 
+                tenthPercentile: 7.91, 
+                thirdPercentile: 6.91
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.15, 
+                twentyFifthPercentile: 10.49, 
+                tenthPercentile: 9.25, 
+                thirdPercentile: 8.25
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 49, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 73, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 58, 
+                twentyFifthPercentile: 71, 
+                tenthPercentile: 81, 
+                thirdPercentile: 91
             } 
         ]
     }, 
@@ -7145,38 +7145,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 7.80, 
+                twentyFifthPercentile: 6.47, 
+                tenthPercentile: 5.45, 
+                thirdPercentile: 4.55
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.03, 
+                twentyFifthPercentile: 9.48, 
+                tenthPercentile: 8.24, 
+                thirdPercentile: 7.34
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.22, 
+                twentyFifthPercentile: 10.73, 
+                tenthPercentile: 9.60, 
+                thirdPercentile: 8.64
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 52, 
+                twentyFifthPercentile: 64, 
+                tenthPercentile: 75, 
+                thirdPercentile: 88
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 58, 
+                twentyFifthPercentile: 71, 
+                tenthPercentile: 81, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -7192,38 +7192,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 7.64, 
+                twentyFifthPercentile: 6.25, 
+                tenthPercentile: 5.16, 
+                thirdPercentile: 4.24
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.36, 
+                twentyFifthPercentile: 9.53, 
+                tenthPercentile: 8.25, 
+                thirdPercentile: 7.19
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.74, 
+                twentyFifthPercentile: 11.00, 
+                tenthPercentile: 9.73, 
+                thirdPercentile: 8.55
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 60, 
+                tenthPercentile: 72, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 57, 
+                twentyFifthPercentile: 71, 
+                tenthPercentile: 81, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -7239,38 +7239,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 8.25, 
+                twentyFifthPercentile: 6.70, 
+                tenthPercentile: 5.52, 
+                thirdPercentile: 4.55
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 11.74, 
+                twentyFifthPercentile: 9.91, 
+                tenthPercentile: 8.60, 
+                thirdPercentile: 7.56
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.13, 
+                twentyFifthPercentile: 11.29, 
+                tenthPercentile: 10.07, 
+                thirdPercentile: 8.91
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 60, 
+                tenthPercentile: 73, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 59, 
+                twentyFifthPercentile: 72, 
+                tenthPercentile: 81, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -7286,38 +7286,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 8.49, 
+                twentyFifthPercentile: 6.99, 
+                tenthPercentile: 5.86, 
+                thirdPercentile: 4.86
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.54, 
+                twentyFifthPercentile: 10.62, 
+                tenthPercentile: 9.31, 
+                thirdPercentile: 8.18
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.87, 
+                twentyFifthPercentile: 12.10, 
+                tenthPercentile: 10.84, 
+                thirdPercentile: 9.69
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 73, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 57, 
+                twentyFifthPercentile: 70, 
+                tenthPercentile: 80, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -7333,38 +7333,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.54, 
+                twentyFifthPercentile: 11.90, 
+                tenthPercentile: 10.88, 
+                thirdPercentile: 10.07
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.43, 
+                twentyFifthPercentile: 16.57, 
+                tenthPercentile: 15.40, 
+                thirdPercentile: 14.79
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 20.35, 
+                twentyFifthPercentile: 18.52, 
+                tenthPercentile: 17.29, 
+                thirdPercentile: 16.62
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 44, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 70, 
+                thirdPercentile: 83
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 40, 
+                twentyFifthPercentile: 55, 
+                tenthPercentile: 68, 
+                thirdPercentile: 80
             } 
         ]
     }, 
@@ -7380,38 +7380,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.32, 
+                twentyFifthPercentile: 11.59, 
+                tenthPercentile: 10.50, 
+                thirdPercentile: 9.65
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.19, 
+                twentyFifthPercentile: 16.21, 
+                tenthPercentile: 15.00, 
+                thirdPercentile: 14.17
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 20.17, 
+                twentyFifthPercentile: 18.16, 
+                tenthPercentile: 16.85, 
+                thirdPercentile: 15.94
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 45, 
+                twentyFifthPercentile: 60, 
+                tenthPercentile: 73, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 41, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 69, 
+                thirdPercentile: 82
             } 
         ]
     }, 
@@ -7427,38 +7427,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.78, 
+                twentyFifthPercentile: 12.00, 
+                tenthPercentile: 10.97, 
+                thirdPercentile: 10.09
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.28, 
+                twentyFifthPercentile: 16.51, 
+                tenthPercentile: 15.38, 
+                thirdPercentile: 14.73
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 20.24, 
+                twentyFifthPercentile: 18.36, 
+                tenthPercentile: 17.16, 
+                thirdPercentile: 16.52
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 59, 
+                tenthPercentile: 72, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 40, 
+                twentyFifthPercentile: 54, 
+                tenthPercentile: 69, 
+                thirdPercentile: 82
             } 
         ]
     }, 
@@ -7474,38 +7474,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 13.21, 
+                twentyFifthPercentile: 11.72, 
+                tenthPercentile: 10.83, 
+                thirdPercentile: 10.06
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.40, 
+                twentyFifthPercentile: 16.57, 
+                tenthPercentile: 15.48, 
+                thirdPercentile: 14.76
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 20.25, 
+                twentyFifthPercentile: 18.44, 
+                tenthPercentile: 17.35, 
+                thirdPercentile: 16.64
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 44, 
+                twentyFifthPercentile: 57, 
+                tenthPercentile: 69, 
+                thirdPercentile: 81
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 41, 
+                twentyFifthPercentile: 53, 
+                tenthPercentile: 65, 
+                thirdPercentile: 77
             } 
         ]
     }, 
@@ -7521,38 +7521,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.84, 
+                twentyFifthPercentile: 8.20, 
+                tenthPercentile: 6.90, 
+                thirdPercentile: 5.84
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.89, 
+                twentyFifthPercentile: 12.88, 
+                tenthPercentile: 11.19, 
+                thirdPercentile: 9.68
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.46, 
+                twentyFifthPercentile: 14.51, 
+                tenthPercentile: 12.97, 
+                thirdPercentile: 11.11
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 62, 
+                tenthPercentile: 74, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 50, 
+                twentyFifthPercentile: 64, 
+                tenthPercentile: 76, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -7568,38 +7568,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.78, 
+                twentyFifthPercentile: 8.10, 
+                tenthPercentile: 6.83, 
+                thirdPercentile: 5.80
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.77, 
+                twentyFifthPercentile: 12.70, 
+                tenthPercentile: 11.02, 
+                thirdPercentile: 9.55
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.35, 
+                twentyFifthPercentile: 14.37, 
+                tenthPercentile: 12.76, 
+                thirdPercentile: 10.92
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 62, 
+                tenthPercentile: 75, 
+                thirdPercentile: 87
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 51, 
+                twentyFifthPercentile: 65, 
+                tenthPercentile: 76, 
+                thirdPercentile: 91
             } 
         ]
     }, 
@@ -7615,38 +7615,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.87, 
+                twentyFifthPercentile: 9.22, 
+                tenthPercentile: 7.92, 
+                thirdPercentile: 6.84
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.91, 
+                twentyFifthPercentile: 14.08, 
+                tenthPercentile: 12.47, 
+                thirdPercentile: 11.14
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.19, 
+                twentyFifthPercentile: 15.54, 
+                tenthPercentile: 14.16, 
+                thirdPercentile: 12.83
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 48, 
+                twentyFifthPercentile: 63, 
+                tenthPercentile: 76, 
+                thirdPercentile: 88
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 51, 
+                twentyFifthPercentile: 65, 
+                tenthPercentile: 78, 
+                thirdPercentile: 91
             } 
         ]
     }, 
@@ -7662,38 +7662,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.46, 
+                twentyFifthPercentile: 8.95, 
+                tenthPercentile: 7.64, 
+                thirdPercentile: 6.41
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.80, 
+                twentyFifthPercentile: 14.08, 
+                tenthPercentile: 12.46, 
+                thirdPercentile: 10.88
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.36, 
+                twentyFifthPercentile: 15.80, 
+                tenthPercentile: 14.17, 
+                thirdPercentile: 12.34
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 76, 
+                thirdPercentile: 88
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 62, 
+                tenthPercentile: 75, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -7709,38 +7709,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.20, 
+                twentyFifthPercentile: 8.61, 
+                tenthPercentile: 7.36, 
+                thirdPercentile: 6.24
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.40, 
+                twentyFifthPercentile: 13.58, 
+                tenthPercentile: 11.95, 
+                thirdPercentile: 10.36
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.94, 
+                twentyFifthPercentile: 15.28, 
+                tenthPercentile: 13.60, 
+                thirdPercentile: 11.89
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 74, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 49, 
+                twentyFifthPercentile: 62, 
+                tenthPercentile: 74, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -7756,38 +7756,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.43, 
+                twentyFifthPercentile: 8.75, 
+                tenthPercentile: 7.52, 
+                thirdPercentile: 6.47
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.82, 
+                twentyFifthPercentile: 13.89, 
+                tenthPercentile: 12.35, 
+                thirdPercentile: 10.95
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.55, 
+                twentyFifthPercentile: 15.54, 
+                tenthPercentile: 14.04, 
+                thirdPercentile: 12.66
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 49, 
+                twentyFifthPercentile: 62, 
+                tenthPercentile: 75, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 50, 
+                twentyFifthPercentile: 64, 
+                tenthPercentile: 77, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -7803,38 +7803,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.46, 
+                twentyFifthPercentile: 8.50, 
+                tenthPercentile: 7.28, 
+                thirdPercentile: 6.35
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 15.46, 
+                twentyFifthPercentile: 13.18, 
+                tenthPercentile: 11.47, 
+                thirdPercentile: 10.12
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.78, 
+                twentyFifthPercentile: 14.62, 
+                tenthPercentile: 13.00, 
+                thirdPercentile: 11.57
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 61, 
+                tenthPercentile: 74, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 50, 
+                twentyFifthPercentile: 65, 
+                tenthPercentile: 79, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -7850,38 +7850,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 10.21, 
+                twentyFifthPercentile: 8.38, 
+                tenthPercentile: 7.02, 
+                thirdPercentile: 5.98
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.87, 
+                twentyFifthPercentile: 12.76, 
+                tenthPercentile: 11.04, 
+                thirdPercentile: 9.45
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.13, 
+                twentyFifthPercentile: 14.18, 
+                tenthPercentile: 12.58, 
+                thirdPercentile: 10.55
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 47, 
+                twentyFifthPercentile: 62, 
+                tenthPercentile: 74, 
+                thirdPercentile: 86
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 50, 
+                twentyFifthPercentile: 63, 
+                tenthPercentile: 75, 
+                thirdPercentile: 92
             } 
         ]
     }, 
@@ -7897,38 +7897,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 9.71, 
+                twentyFifthPercentile: 8.03, 
+                tenthPercentile: 6.69, 
+                thirdPercentile: 5.60
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.56, 
+                twentyFifthPercentile: 12.47, 
+                tenthPercentile: 10.72, 
+                thirdPercentile: 9.16
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 16.05, 
+                twentyFifthPercentile: 14.11, 
+                tenthPercentile: 12.45, 
+                thirdPercentile: 10.50
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 46, 
+                twentyFifthPercentile: 60, 
+                tenthPercentile: 73, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 49, 
+                twentyFifthPercentile: 62, 
+                tenthPercentile: 73, 
+                thirdPercentile: 89
             } 
         ]
     }, 
@@ -7944,38 +7944,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.11, 
+                twentyFifthPercentile: 10.63, 
+                tenthPercentile: 9.54, 
+                thirdPercentile: 8.50
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 17.68, 
+                twentyFifthPercentile: 15.94, 
+                tenthPercentile: 14.95, 
+                thirdPercentile: 13.92
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.74, 
+                twentyFifthPercentile: 17.74, 
+                tenthPercentile: 16.60, 
+                thirdPercentile: 15.35
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 72, 
+                thirdPercentile: 84
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 40, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 70, 
+                thirdPercentile: 87
             } 
         ]
     }, 
@@ -7991,38 +7991,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.00, 
+                twentyFifthPercentile: 10.96, 
+                tenthPercentile: 9.68, 
+                thirdPercentile: 8.52
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.71, 
+                twentyFifthPercentile: 16.38, 
+                tenthPercentile: 15.00, 
+                thirdPercentile: 13.83
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 20.42, 
+                twentyFifthPercentile: 18.34, 
+                tenthPercentile: 16.73, 
+                thirdPercentile: 15.34
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 40, 
+                twentyFifthPercentile: 55, 
+                tenthPercentile: 70, 
+                thirdPercentile: 83
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 38, 
+                twentyFifthPercentile: 54, 
+                tenthPercentile: 69, 
+                thirdPercentile: 87
             } 
         ]
     }, 
@@ -8038,38 +8038,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.59, 
+                twentyFifthPercentile: 10.91, 
+                tenthPercentile: 9.68, 
+                thirdPercentile: 8.52
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.12, 
+                twentyFifthPercentile: 16.18, 
+                tenthPercentile: 15.07, 
+                thirdPercentile: 14.18
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.96, 
+                twentyFifthPercentile: 17.98, 
+                tenthPercentile: 16.75, 
+                thirdPercentile: 15.62
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 58, 
+                tenthPercentile: 72, 
+                thirdPercentile: 87
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 41, 
+                twentyFifthPercentile: 57, 
+                tenthPercentile: 74, 
+                thirdPercentile: 90
             } 
         ]
     }, 
@@ -8085,38 +8085,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 14.06, 
+                twentyFifthPercentile: 11.85, 
+                tenthPercentile: 10.58, 
+                thirdPercentile: 9.60
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 19.55, 
+                twentyFifthPercentile: 17.24, 
+                tenthPercentile: 15.79, 
+                thirdPercentile: 14.91
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 21.15, 
+                twentyFifthPercentile: 19.14, 
+                tenthPercentile: 17.48, 
+                thirdPercentile: 16.41
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 57, 
+                tenthPercentile: 72, 
+                thirdPercentile: 87
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 37, 
+                twentyFifthPercentile: 52, 
+                tenthPercentile: 67, 
+                thirdPercentile: 86
             } 
         ]
     }, 
@@ -8132,85 +8132,38 @@ const weatherStations = [
         fireDangerIndeces: [
             {
                 name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 12.93, 
+                twentyFifthPercentile: 11.36, 
+                tenthPercentile: 10.33, 
+                thirdPercentile: 9.40
             }, 
             {
                 name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 18.50, 
+                twentyFifthPercentile: 16.76, 
+                tenthPercentile: 15.77, 
+                thirdPercentile: 14.80
             }, 
             {
                 name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 20.36, 
+                twentyFifthPercentile: 18.54, 
+                tenthPercentile: 17.37, 
+                thirdPercentile: 16.35
             }, 
             {
                 name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 43, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 70, 
+                thirdPercentile: 85
             }, 
             {
                 name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
-            } 
-        ]
-    }, 
-    {
-        stationName: "", 
-        stationId: "", 
-        stationLatitude: 0, 
-        stationLongitute: 0, 
-        predicitveServiceArea: "", 
-        stationCounty: "",
-        stationNetwork: "", 
-        stationUrl: "", 
-        fireDangerIndeces: [
-            {
-                name: "10hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
-            }, 
-            {
-                name: "100hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0,
-                thirdPercentile: 0,
-            }, 
-            {
-                name: "1000hr FM", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
-            }, 
-            {
-                name: "BI", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
-            }, 
-            {
-                name: "ERC", 
-                fiftiethPercentile: 0, 
-                twentyFifthPercentile: 0, 
-                tenthPercentile: 0, 
-                thirdPercentile: 0,
+                fiftiethPercentile: 41, 
+                twentyFifthPercentile: 56, 
+                tenthPercentile: 71, 
+                thirdPercentile: 87
             } 
         ]
     }
