@@ -291,7 +291,7 @@ const predictiveServiceAreas = [
         PSAcounties: ["Bailey", "Castro", "Cochran", "Crosby", "Floyd", "Garza", "Hale", "Hockley", "Lamb", "Lubbock", "Lynn", "Parmer", "Swisher", "Terry", "Yoakum"], 
         seasonalErcUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_erc_pdfs/CAPROCK_erc.pdf", 
         seasonalHunHrUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_fm100_pdfs/CAPROCK_fm100.pdf", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.52, 
@@ -334,7 +334,7 @@ const predictiveServiceAreas = [
         PSAcounties: ["Austin", "Bastrop", "Brazos", "Burleson", "Caldwell", "Colorado", "DeWitt", "Falls", "Fayette", "Fort Bend", "Gonzales", "Guadalupe", "Jackson", "Lavaca", "Lee", "Milam", "Robertson", "Victoria", "Washington", "Wharton"], 
         seasonalErcUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_erc_pdfs/CENTRAL_TEXAS_erc.pdf", 
         seasonalHunHrUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_fm100_pdfs/CENTRAL_TEXAS_fm100.pdf", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.00, 
@@ -377,7 +377,7 @@ const predictiveServiceAreas = [
         PSAcounties: ["Clay", "Comanche", "Cooke", "Denton", "Erath", "Hamilton", "Hill", "Hood", "Jackson", "Johnson", "McLennan", "Montague", "Palo Pinto", "Parker", "Somervell", "Tarrant", "Wise"], 
         seasonalErcUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_erc_pdfs/CROSS_TIMBERS_erc.pdf", 
         seasonalHunHrUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_fm100_pdfs/CROSS_TIMBERS_fm100.pdf", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.97, 
@@ -417,10 +417,10 @@ const predictiveServiceAreas = [
     }, 
     {
         PSAname: "Eastern Hill Country", 
-        PSAcounties: ["Bell", "Blanco", "Burnet", "Comal", "Coryell", "Gillespie", "Hays", "Kendall", "Kerr", "Lampasas", "Llano", "Mason", "McCulloch", "Mills", "Real", "San Saba", "Travis", "Williamson"], 
+        PSAcounties: ["Bandera", "Bell", "Blanco", "Burnet", "Comal", "Coryell", "Gillespie", "Hays", "Kendall", "Kerr", "Lampasas", "Llano", "Mason", "McCulloch", "Mills", "Real", "San Saba", "Travis", "Williamson"], 
         seasonalErcUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_erc_pdfs/EASTERN_HILL_COUNTRY_erc.pdf", 
         seasonalHunHrUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_fm100_pdfs/EASTERN_HILL_COUNTRY_fm100.pdf", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.8, 
@@ -463,7 +463,7 @@ const predictiveServiceAreas = [
         PSAcounties: ["Armstrong", "Briscoe", "Carson", "Dallam", "Deaf Smith", "Donley", "Gray", "Hansford", "Hartley", "Hemphill", "Hutchinson", "Lipscomb", "Moore", "Ochiltree", "Oldham", "Potter", "Randall", "Roberts", "Sherman", "Wheeler"], 
         seasonalErcUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_erc_pdfs/HIGH_PLAINS_erc.pdf", 
         seasonalHunHrUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_fm100_pdfs/HIGH_PLAINS_fm100.pdf", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.61, 
@@ -506,7 +506,7 @@ const predictiveServiceAreas = [
         PSAcounties: ["Brooks", "Calhoun", "Cameron", "Hildalgo", "Jim Wells", "Kenedy", "Kleberg", "Nueces", "Refugio", "San Patricio", "Willacy"], 
         seasonalErcUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_erc_pdfs/LOWER_GULF_COAST_erc.pdf", 
         seasonalHunHrUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_fm100_pdfs/LOWER_GULF_COAST_fm100.pdf", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 14.24, 
@@ -549,7 +549,7 @@ const predictiveServiceAreas = [
         PSAcounties: ["Collin", "Dallas", "Delta", "Ellis", "Fannin", "Grayson", "Henderson", "Hopkins", "Hunt", "Kaufman", "Lamar", "Limestone", "Navarro", "Rains", "Rockwall", "Van Zandt"], 
         seasonalErcUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_erc_pdfs/NORTH_TEXAS_erc.pdf", 
         seasonalHunHrUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_fm100_pdfs/NORTH_TEXAS_fm100.pdf", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.64, 
@@ -592,7 +592,7 @@ const predictiveServiceAreas = [
         PSAcounties: ["Bowie", "Camp", "Cass", "Franklin", "Gregg", "Harrison", "Marion", "Morris", "Panola", "Red River", "Rusk", "Smith", "Titus", "Upshur", "Wood"], 
         seasonalErcUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_erc_pdfs/NORTHEAST_TEXAS_erc.pdf", 
         seasonalHunHrUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_fm100_pdfs/NORTHEAST_TEXAS_fm100.pdf", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.12, 
@@ -635,7 +635,7 @@ const predictiveServiceAreas = [
         PSAcounties: ["Archer", "Baylor", "Brown", "Callahan", "Childress", "Coke", "Coleman", "Collingsworth", "Cottle", "Dickens", "Eastland", "Fisher", "Foard", "Hall", "Hardeman", "Haskell", "Jones", "Kent", "Knox", "Mithcell", "Motley", "Nolan", "Runnels", "Scurry", "Shackelford", "Stephens", "Sterling", "Stonewall", "Taylor", "Throckmorton", "Wichita", "Wilbarger", "Young"], 
         seasonalErcUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_erc_pdfs/ROLLING_PLAINS_erc.pdf", 
         seasonalHunHrUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_fm100_pdfs/ROLLING_PLAINS_fm100.pdf", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.82, 
@@ -678,7 +678,7 @@ const predictiveServiceAreas = [
         PSAcounties: ["Atascosa", "Bee", "Bexar", "Dimmit", "Duval", "Frio", "Goliad", "Jim Hogg", "Karnes", "Kinney", "La Salle", "Live Oak", "Maverick", "McMullen", "Medina", "Starr", "Uvalde", "Webb", "Wilson", "Zapata", "Zavala"], 
         seasonalErcUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_erc_pdfs/SOUTH_TEXAS_erc.pdf", 
         seasonalHunHrUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_fm100_pdfs/SOUTH_TEXAS_fm100.pdf", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.05, 
@@ -721,7 +721,7 @@ const predictiveServiceAreas = [
         PSAcounties: ["Angelina", "Hardin", "Jasper", "Liberty", "Nacogdoches", "Newton", "Polk", "Sabine", "San Augustine", "Shelby", "Tyler"], 
         seasonalErcUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_erc_pdfs/SOUTHEAST_TEXAS_erc.pdf", 
         seasonalHunHrUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_fm100_pdfs/SOUTHEAST_TEXAS_fm100.pdf", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.74, 
@@ -764,7 +764,7 @@ const predictiveServiceAreas = [
         PSAcounties: ["Andrews", "Borden", "Crane", "Dawson", "Ector", "Gaines", "Glasscock", "Howard", "Loving", "Martin", "Midland", "Reagan", "Upton", "Ward", "Winkler"], 
         seasonalErcUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_erc_pdfs/SOUTHERN_PLAINS_erc.pdf", 
         seasonalHunHrUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_fm100_pdfs/SOUTHERN_PLAINS_fm100.pdf", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.26, 
@@ -807,7 +807,7 @@ const predictiveServiceAreas = [
         PSAcounties: ["Brewster", "Culberson", "El Paso", "Hudspeth", "Jeff Davis", "Pecos", "Presidio", "Reeves", "Terrell"], 
         seasonalErcUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_erc_pdfs/TRANS_PECOS_erc.pdf", 
         seasonalHunHrUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_fm100_pdfs/TRANS_PECOS_fm100.pdf", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 8.00, 
@@ -850,7 +850,7 @@ const predictiveServiceAreas = [
         PSAcounties: ["Brazoria", "Chambers", "Galveston", "Jefferson", "Matagorda", "Orange"], 
         seasonalErcUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_erc_pdfs/UPPER_GULF_COAST_erc.pdf", 
         seasonalHunHrUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_fm100_pdfs/UPPER_GULF_COAST_fm100.pdf", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 13.46, 
@@ -893,7 +893,7 @@ const predictiveServiceAreas = [
         PSAcounties: ["Concho", "Crockett", "Edwards", "Irion", "Kimble", "Menard", "Schleicher", "Sutton", "Tom Green", "Val Verde"], 
         seasonalErcUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_erc_pdfs/WESTERN_HILL_COUNTRY_erc.pdf", 
         seasonalHunHrUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_fm100_pdfs/WESTERN_HILL_COUNTRY_fm100.pdf", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.22, 
@@ -936,7 +936,7 @@ const predictiveServiceAreas = [
         PSAcounties: ["Anderson", "Cherokee", "Freestone", "Grimes", "Harris", "Houston", "Leon", "Madison", "Montgomery", "San Jacinto", "Trinity", "Walker", "Waller"], 
         seasonalErcUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_erc_pdfs/WESTERN_PINEYWOODS_erc.pdf", 
         seasonalHunHrUrl: "https://twcgis.tamu.edu/NFDRSv4/Graphs/combined_fm100_pdfs/WESTERN_PINEYWOODS_fm100.pdf", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.74, 
@@ -987,7 +987,7 @@ const weatherStations = [
         stationCounty: "Bailey", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.67, 
@@ -1034,7 +1034,7 @@ const weatherStations = [
         stationCounty: "Swisher", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.06, 
@@ -1081,7 +1081,7 @@ const weatherStations = [
         stationCounty: "Lubbock", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KLBB&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.64, 
@@ -1128,7 +1128,7 @@ const weatherStations = [
         stationCounty: "Hockley", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.47, 
@@ -1175,7 +1175,7 @@ const weatherStations = [
         stationCounty: "Crosby",  
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.28, 
@@ -1222,7 +1222,7 @@ const weatherStations = [
         stationCounty: "Garza", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.02, 
@@ -1269,7 +1269,7 @@ const weatherStations = [
         stationCounty: "Roberston", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=RPRT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.65, 
@@ -1316,7 +1316,7 @@ const weatherStations = [
         stationCounty: "Brazos", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KCLL&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.19, 
@@ -1363,7 +1363,7 @@ const weatherStations = [
         stationCounty: "Bastrop", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=BTRT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.84, 
@@ -1410,7 +1410,7 @@ const weatherStations = [
         stationCounty: "Fayette", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=LGNT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.70, 
@@ -1457,7 +1457,7 @@ const weatherStations = [
         stationCounty: "Gonzales", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=NWMT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.67, 
@@ -1504,7 +1504,7 @@ const weatherStations = [
         stationCounty: "Colorado", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=ANWT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.22, 
@@ -1551,7 +1551,7 @@ const weatherStations = [
         stationCounty: "Victoria", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KVCT&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.73, 
@@ -1598,7 +1598,7 @@ const weatherStations = [
         stationCounty: "Palo Pinto", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=PKLT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.01, 
@@ -1645,7 +1645,7 @@ const weatherStations = [
         stationCounty: "Comanche", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=COAT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.23, 
@@ -1692,7 +1692,7 @@ const weatherStations = [
         stationCounty: "Parker", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KMWL&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.26, 
@@ -1739,7 +1739,7 @@ const weatherStations = [
         stationCounty: "Wise", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=LBJT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.86, 
@@ -1786,7 +1786,7 @@ const weatherStations = [
         stationCounty: "Denton", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KDTO&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.64, 
@@ -1833,7 +1833,7 @@ const weatherStations = [
         stationCounty: "Hood", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=GRYT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.74, 
@@ -1880,7 +1880,7 @@ const weatherStations = [
         stationCounty: "McLennan", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=MEGT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.19, 
@@ -1927,7 +1927,7 @@ const weatherStations = [
         stationCounty: "McLennan", 
         stationNetwork: "ASOS", 
         stationUrl: "hthttps://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KACT&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.79, 
@@ -1974,7 +1974,7 @@ const weatherStations = [
         stationCounty: "Mason", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=MSAT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.30, 
@@ -2021,7 +2021,7 @@ const weatherStations = [
         stationCounty: "Bandera", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=LMNT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.28, 
@@ -2068,7 +2068,7 @@ const weatherStations = [
         stationCounty: "Gillespie", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=BDTT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.55, 
@@ -2115,7 +2115,7 @@ const weatherStations = [
         stationCounty: "Travis", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=BNET2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.18, 
@@ -2162,7 +2162,7 @@ const weatherStations = [
         stationCounty: "Burnet", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=BFXT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.16, 
@@ -2209,7 +2209,7 @@ const weatherStations = [
         stationCounty: "Travis", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=EAUT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.72, 
@@ -2256,7 +2256,7 @@ const weatherStations = [
         stationCounty: "Travis", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=AURT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.71, 
@@ -2303,7 +2303,7 @@ const weatherStations = [
         stationCounty: "Comal", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=GUPT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.06, 
@@ -2350,7 +2350,7 @@ const weatherStations = [
         stationCounty: "Guadalupe", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KBAZ&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.79, 
@@ -2397,7 +2397,7 @@ const weatherStations = [
         stationCounty: "San Saba", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CBDT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.46, 
@@ -2444,7 +2444,7 @@ const weatherStations = [
         stationCounty: "Bell", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=TMPT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.10, 
@@ -2491,7 +2491,7 @@ const weatherStations = [
         stationCounty: "Coryell", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=TT704&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.82, 
@@ -2538,7 +2538,7 @@ const weatherStations = [
         stationCounty: "Hutchinson", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CEDT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.34, 
@@ -2585,7 +2585,7 @@ const weatherStations = [
         stationCounty: "Hartley", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KDHT&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.76, 
@@ -2632,7 +2632,7 @@ const weatherStations = [
         stationCounty: "Hemphill", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.11, 
@@ -2679,7 +2679,7 @@ const weatherStations = [
         stationCounty: "Hutchinson", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.40, 
@@ -2725,7 +2725,7 @@ const weatherStations = [
         predicitveServiceArea: "High Plains", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.43, 
@@ -2772,7 +2772,7 @@ const weatherStations = [
         stationCounty: "Deaf Smith", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=BLGT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.51, 
@@ -2819,7 +2819,7 @@ const weatherStations = [
         stationCounty: "Wheeler", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=WHRT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.09, 
@@ -2866,7 +2866,7 @@ const weatherStations = [
         stationCounty: "Potter", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KAMA&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.85, 
@@ -2913,7 +2913,7 @@ const weatherStations = [
         stationCounty: "Gray", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.22, 
@@ -2960,7 +2960,7 @@ const weatherStations = [
         stationCounty: "Donley", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.94, 
@@ -3007,7 +3007,7 @@ const weatherStations = [
         stationCounty: "Oldham", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.35, 
@@ -3054,7 +3054,7 @@ const weatherStations = [
         stationCounty: "Deaf Smith", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.51, 
@@ -3101,7 +3101,7 @@ const weatherStations = [
         stationCounty: "Oldham", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.50, 
@@ -3148,7 +3148,7 @@ const weatherStations = [
         stationCounty: "Randall", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.84, 
@@ -3195,7 +3195,7 @@ const weatherStations = [
         stationCounty: "Carson", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.54, 
@@ -3242,7 +3242,7 @@ const weatherStations = [
         stationCounty: "Armstrong", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.73, 
@@ -3289,7 +3289,7 @@ const weatherStations = [
         stationCounty: "Gray", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.41, 
@@ -3336,7 +3336,7 @@ const weatherStations = [
         stationCounty: "Briscoe", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CAPT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 8.95, 
@@ -3383,7 +3383,7 @@ const weatherStations = [
         stationCounty: "Briscoe", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.17, 
@@ -3430,7 +3430,7 @@ const weatherStations = [
         stationCounty: "Aransas", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=AFWT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 13.96, 
@@ -3477,7 +3477,7 @@ const weatherStations = [
         stationCounty: "Calhoun", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=MIRT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 14.46, 
@@ -3524,7 +3524,7 @@ const weatherStations = [
         stationCounty: "Jim Wells", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KALI&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 14.54, 
@@ -3571,7 +3571,7 @@ const weatherStations = [
         stationCounty: "Kleberg", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=TT738&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 14.62, 
@@ -3618,7 +3618,7 @@ const weatherStations = [
         stationCounty: "Brooks", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=VCRT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 13.66, 
@@ -3665,7 +3665,7 @@ const weatherStations = [
         stationCounty: "Hidalgo", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=LWRT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 14.21, 
@@ -3712,7 +3712,7 @@ const weatherStations = [
         stationCounty: "Cameron", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=ATRT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 14.95, 
@@ -3759,7 +3759,7 @@ const weatherStations = [
         stationCounty: "Hidalgo", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=LSRT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 13.54, 
@@ -3806,7 +3806,7 @@ const weatherStations = [
         stationCounty: "Fannin", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CDDT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.95, 
@@ -3853,7 +3853,7 @@ const weatherStations = [
         stationCounty: "Henderson", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=RHAT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.67, 
@@ -3900,7 +3900,7 @@ const weatherStations = [
         stationCounty: "Hunt", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=GELT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.39, 
@@ -3947,7 +3947,7 @@ const weatherStations = [
         stationCounty: "Collin", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KTKI&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.99, 
@@ -3994,7 +3994,7 @@ const weatherStations = [
         stationCounty: "Dallas", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CDHT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.93, 
@@ -4041,7 +4041,7 @@ const weatherStations = [
         stationCounty: "Kaufman", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KTRL&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.91, 
@@ -4088,7 +4088,7 @@ const weatherStations = [
         stationCounty: "Red River", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CKST2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.83, 
@@ -4135,7 +4135,7 @@ const weatherStations = [
         stationCounty: "Bowie", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=TEXT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.33, 
@@ -4182,7 +4182,7 @@ const weatherStations = [
         stationCounty: "Cass", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=DENT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.98, 
@@ -4229,7 +4229,7 @@ const weatherStations = [
         stationCounty: "Upshur", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=GLMT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.97, 
@@ -4276,7 +4276,7 @@ const weatherStations = [
         stationCounty: "Smith", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KTYR&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.10, 
@@ -4323,7 +4323,7 @@ const weatherStations = [
         stationCounty: "Harrison", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CADT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.61, 
@@ -4369,7 +4369,7 @@ const weatherStations = [
         predicitveServiceArea: "Northeast Texas", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=HDRT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.01, 
@@ -4416,7 +4416,7 @@ const weatherStations = [
         stationCounty: "Collingsworth", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.64, 
@@ -4463,7 +4463,7 @@ const weatherStations = [
         stationCounty: "Cottle", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=MATT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.48, 
@@ -4510,7 +4510,7 @@ const weatherStations = [
         stationCounty: "Motley", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.89, 
@@ -4557,7 +4557,7 @@ const weatherStations = [
         stationCounty: "Hall", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.49, 
@@ -4604,7 +4604,7 @@ const weatherStations = [
         stationCounty: "Kent", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=JJYT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.36, 
@@ -4651,7 +4651,7 @@ const weatherStations = [
         stationCounty: "Kent", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.68, 
@@ -4698,7 +4698,7 @@ const weatherStations = [
         stationCounty: "King", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.50, 
@@ -4745,7 +4745,7 @@ const weatherStations = [
         stationCounty: "Nolan", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.54, 
@@ -4792,7 +4792,7 @@ const weatherStations = [
         stationCounty: "Scurry", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.79, 
@@ -4839,7 +4839,7 @@ const weatherStations = [
         stationCounty: "Coke", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=PCKT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.33, 
@@ -4886,7 +4886,7 @@ const weatherStations = [
         stationCounty: "Coke", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.66, 
@@ -4933,7 +4933,7 @@ const weatherStations = [
         stationCounty: "Sterling", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.56, 
@@ -4980,7 +4980,7 @@ const weatherStations = [
         stationCounty: "Baylor", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=MCBT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.89, 
@@ -5027,7 +5027,7 @@ const weatherStations = [
         stationCounty: "Wichita", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KSPS&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.89, 
@@ -5074,7 +5074,7 @@ const weatherStations = [
         stationCounty: "Hardeman", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.86, 
@@ -5121,7 +5121,7 @@ const weatherStations = [
         stationCounty: "Wilbarger", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.37, 
@@ -5168,7 +5168,7 @@ const weatherStations = [
         stationCounty: "Knox", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.84, 
@@ -5215,7 +5215,7 @@ const weatherStations = [
         stationCounty: "Throckmorton", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.91, 
@@ -5262,7 +5262,7 @@ const weatherStations = [
         stationCounty: "Foard", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.57, 
@@ -5309,7 +5309,7 @@ const weatherStations = [
         stationCounty: "Baylor", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.30, 
@@ -5356,7 +5356,7 @@ const weatherStations = [
         stationCounty: "Jones", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.88, 
@@ -5403,7 +5403,7 @@ const weatherStations = [
         stationCounty: "Callahan", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.04, 
@@ -5450,7 +5450,7 @@ const weatherStations = [
         stationCounty: "Taylor", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=HBYT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.34, 
@@ -5497,7 +5497,7 @@ const weatherStations = [
         stationCounty: "Coleman", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=IVET2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.86, 
@@ -5544,7 +5544,7 @@ const weatherStations = [
         stationCounty: "Kinney", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KCPT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.41, 
@@ -5591,7 +5591,7 @@ const weatherStations = [
         stationCounty: "Frio", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=PSAT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.60, 
@@ -5638,7 +5638,7 @@ const weatherStations = [
         stationCounty: "Medina", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KHDO&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.41, 
@@ -5685,7 +5685,7 @@ const weatherStations = [
         stationCounty: "Bexar", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KSSF&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.54, 
@@ -5732,7 +5732,7 @@ const weatherStations = [
         stationCounty: "Live Oak", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=GWRT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.37, 
@@ -5779,7 +5779,7 @@ const weatherStations = [
         stationCounty: "Jim Hogg", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=HVLT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.06, 
@@ -5826,7 +5826,7 @@ const weatherStations = [
         stationCounty: "La Salle", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KCOT&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 11.05, 
@@ -5873,7 +5873,7 @@ const weatherStations = [
         stationCounty: "Starr", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=FART2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.93, 
@@ -5920,7 +5920,7 @@ const weatherStations = [
         stationCounty: "Nacogdoches", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=LMJT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.32, 
@@ -5967,7 +5967,7 @@ const weatherStations = [
         stationCounty: "Shelby", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=DRKT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.98, 
@@ -6014,7 +6014,7 @@ const weatherStations = [
         stationCounty: "Angelina", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=ZVLT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.41, 
@@ -6061,7 +6061,7 @@ const weatherStations = [
         stationCounty: "Angelina", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=LRWT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.31, 
@@ -6108,7 +6108,7 @@ const weatherStations = [
         stationCounty: "Sabine", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=SSRT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 13.10, 
@@ -6155,7 +6155,7 @@ const weatherStations = [
         stationCounty: "Tyler", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=WVLT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.23, 
@@ -6202,7 +6202,7 @@ const weatherStations = [
         stationCounty: "Newton", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KRBT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 13.47, 
@@ -6249,7 +6249,7 @@ const weatherStations = [
         stationCounty: "Liberty", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KNFT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.62, 
@@ -6296,7 +6296,7 @@ const weatherStations = [
         stationCounty: "Tyler", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=WRRT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 13.23, 
@@ -6343,7 +6343,7 @@ const weatherStations = [
         stationCounty: "Winkler", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KINK&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 8.65, 
@@ -6390,7 +6390,7 @@ const weatherStations = [
         stationCounty: "Borden", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=FRKT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.43, 
@@ -6437,7 +6437,7 @@ const weatherStations = [
         stationCounty: "Borden", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.46, 
@@ -6484,7 +6484,7 @@ const weatherStations = [
         stationCounty: "Gaines", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.19, 
@@ -6531,7 +6531,7 @@ const weatherStations = [
         stationCounty: "Midland", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=MNDT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 8.85, 
@@ -6578,7 +6578,7 @@ const weatherStations = [
         stationCounty: "Glasscock", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.42, 
@@ -6625,7 +6625,7 @@ const weatherStations = [
         stationCounty: "Midland", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KMAF&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.33, 
@@ -6672,7 +6672,7 @@ const weatherStations = [
         stationCounty: "Reagan", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.76, 
@@ -6719,7 +6719,7 @@ const weatherStations = [
         stationCounty: "El Paso", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KELP&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 7.27, 
@@ -6766,7 +6766,7 @@ const weatherStations = [
         stationCounty: "Hudspeth", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 7.80, 
@@ -6813,7 +6813,7 @@ const weatherStations = [
         stationCounty: "Culberson", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=PSGT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 7.68, 
@@ -6860,7 +6860,7 @@ const weatherStations = [
         stationCounty: "Culberson", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=GDBT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 8.91, 
@@ -6907,7 +6907,7 @@ const weatherStations = [
         stationCounty: "Hudspeth", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=PXWT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 8.07, 
@@ -6954,7 +6954,7 @@ const weatherStations = [
         stationCounty: "Culberson", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 8.06, 
@@ -7001,7 +7001,7 @@ const weatherStations = [
         stationCounty: "Jeff Davis", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=FDST2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 8.33, 
@@ -7048,7 +7048,7 @@ const weatherStations = [
         stationCounty: "Jeff Davis", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=WDPT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 8.41, 
@@ -7095,7 +7095,7 @@ const weatherStations = [
         stationCounty: "Brewster", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=PJNT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 7.31, 
@@ -7142,7 +7142,7 @@ const weatherStations = [
         stationCounty: "Brewster", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CSBT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 7.80, 
@@ -7189,7 +7189,7 @@ const weatherStations = [
         stationCounty: "Brewster", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=EMNT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 7.64, 
@@ -7236,7 +7236,7 @@ const weatherStations = [
         stationCounty: "Reeves", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 8.25, 
@@ -7283,7 +7283,7 @@ const weatherStations = [
         stationCounty: "Pecos", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KFST&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 8.49, 
@@ -7330,7 +7330,7 @@ const weatherStations = [
         stationCounty: "Chambers", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=HILT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 13.54, 
@@ -7377,7 +7377,7 @@ const weatherStations = [
         stationCounty: "Brazoria", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=BZRT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 13.32, 
@@ -7424,7 +7424,7 @@ const weatherStations = [
         stationCounty: "Brazoria", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=SRDT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 13.78, 
@@ -7471,7 +7471,7 @@ const weatherStations = [
         stationCounty: "Jefferson", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=FADT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 13.21, 
@@ -7518,7 +7518,7 @@ const weatherStations = [
         stationCounty: "Crockett", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=BNHT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.84, 
@@ -7565,7 +7565,7 @@ const weatherStations = [
         stationCounty: "Crockett", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.78, 
@@ -7612,7 +7612,7 @@ const weatherStations = [
         stationCounty: "Kimble", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KJCT&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.87, 
@@ -7659,7 +7659,7 @@ const weatherStations = [
         stationCounty: "Menard", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.46, 
@@ -7706,7 +7706,7 @@ const weatherStations = [
         stationCounty: "Menard", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.20, 
@@ -7753,7 +7753,7 @@ const weatherStations = [
         stationCounty: "Edwards", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=EDWT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.43, 
@@ -7800,7 +7800,7 @@ const weatherStations = [
         stationCounty: "Val Verde", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KDRT&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.46, 
@@ -7847,7 +7847,7 @@ const weatherStations = [
         stationCounty: "Tom Green", 
         stationNetwork: "ASOS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=KSJT&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 10.21, 
@@ -7894,7 +7894,7 @@ const weatherStations = [
         stationCounty: "Irion", 
         stationNetwork: "WTM", 
         stationUrl: "https://www.mesonet.ttu.edu/", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 9.71, 
@@ -7941,7 +7941,7 @@ const weatherStations = [
         stationCounty: "Anderson", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=APLT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.11, 
@@ -7988,7 +7988,7 @@ const weatherStations = [
         stationCounty: "Houston", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=RTCT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.00, 
@@ -8035,7 +8035,7 @@ const weatherStations = [
         stationCounty: "Walker", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=HTVT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.59, 
@@ -8082,7 +8082,7 @@ const weatherStations = [
         stationCounty: "San Jacinto", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CPGT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 14.06, 
@@ -8129,7 +8129,7 @@ const weatherStations = [
         stationCounty: "Montgomery", 
         stationNetwork: "RAWS", 
         stationUrl: "https://mesowest.utah.edu/cgi-bin/droman/meso_base_dyn.cgi?stn=CKNT2&unit=0&timetype=LOCAL", 
-        fireDangerIndeces: [
+        fireDangerIndices: [
             {
                 name: "10hr FM", 
                 fiftiethPercentile: 12.93, 
